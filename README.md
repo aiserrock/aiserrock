@@ -27,4 +27,5 @@ Flutter fan. StackOverflow helper. Voracious reader. Avid traveler. Active blogg
 </p>
 </details>  
 
-## My resume : https://drive.google.com/file/d/1CqUFtZigjoEwfK1dNRr6n3H2UFSNO9Fe/view?usp=sharing
+## My resume: 
+https://drive.google.com/file/d/1CqUFtZigjoEwfK1dNRr6n3H2UFSNO9Fe/view?usp=sharing

@@ -20,11 +20,10 @@ Flutter fan. StackOverflow helper. Voracious reader. Avid traveler.
 <details>
 <summary>Studying now</summary>
 <p>  
-Advanced
   
+Advanced level:
 * Provider
-* BLoC
-  
+* BLoC 
 </p>
 </details> 
 

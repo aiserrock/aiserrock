@@ -3,41 +3,39 @@ Flutter fan. StackOverflow helper. Voracious reader. Avid traveler.
 #### Knowledge in Flutter/Dart
 
 <details>
-<summary>Know</summary>
-<p>  
- * Difference between Stateless/Statefull/Inherit
- * Lifecycle Stateless/Statefull/Inherit
- * Understand how to create a productive UI
- * async/await/then/
- * stream/generator
- * Keys
- * BuildContext
- * Navigation
- * Testing
-</p>
+<summary>Know</summary> 
+ * Difference between Stateless/Statefull/Inherit  
+ * Lifecycle Stateless/Statefull/Inherit  
+ * Understand how to create a productive UI  
+ * async/await/then/  
+ * stream/generator  
+ * Keys  
+ * BuildContext  
+ * Navigation  
+ * Testing  
 </details>  
 
 <details>
 <summary>Studying now</summary>
 <p>  
-Advanced
-* Provider
-* BLoC
+Advanced  
+* Provider  
+* BLoC  
 </p>
 </details> 
 
 <details>
 <summary>Plan to study</summary>
 <p>  
- * Firebase
- * get_it
- * WebSocket
- * gRPC
- * GraphQL.
- * method channels
- * Firebase Analytics
- * Crashlytics
- * Sentry.
+ * Firebase  
+ * get_it  
+ * WebSocket  
+ * gRPC  
+ * GraphQL  
+ * method channels  
+ * Firebase Analytics  
+ * Crashlytics  
+ * Sentry  
 </p>
 </details>  
 

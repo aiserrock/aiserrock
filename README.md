@@ -1,31 +1,45 @@
-Flutter fan. StackOverflow helper. Voracious reader. Avid traveler. Active blogger. 
+Flutter fan. StackOverflow helper. Voracious reader. Avid traveler.
 
-## Know
+#### Knowledge in Flutter/Dart
 
 <details>
-<summary>Expand</summary>
+<summary>Know</summary>
 <p>  
- 
+ * Difference between Stateless/Statefull/Inherit
+ * Lifecycle Stateless/Statefull/Inherit
+ * Understand how to create a productive UI
+ * async/await/then/
+ * stream/generator
+ * Keys
+ * BuildContext
+ * Navigation
+ * Testing
 </p>
 </details>  
 
-## Studying now
-
 <details>
-<summary>Expand</summary>
+<summary>Studying now</summary>
 <p>  
- 
+Advanced
+* Provider
+* BLoC
 </p>
 </details> 
 
-## Plan to study
-
 <details>
-<summary>Expand</summary>
+<summary>Plan to study</summary>
 <p>  
- 
+ * Firebase
+ * get_it
+ * WebSocket
+ * gRPC
+ * GraphQL.
+ * method channels
+ * Firebase Analytics
+ * Crashlytics
+ * Sentry.
 </p>
 </details>  
 
-## My resume: 
+#### My resume: 
 https://drive.google.com/file/d/1CqUFtZigjoEwfK1dNRr6n3H2UFSNO9Fe/view?usp=sharing

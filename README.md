@@ -1,16 +1,30 @@
-### Hi there 👋
+Flutter fan. StackOverflow helper. Voracious reader. Avid traveler. Active blogger. 
 
-<!--
-**aiserrock/aiserrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Know
 
-Here are some ideas to get you started:
+<details>
+<summary>Expand</summary>
+<p>  
+ 
+</p>
+</details>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Studying now
+
+<details>
+<summary>Expand</summary>
+<p>  
+ 
+</p>
+</details> 
+
+## Plan to study
+
+<details>
+<summary>Expand</summary>
+<p>  
+ 
+</p>
+</details>  
+
+## My resume : https://drive.google.com/file/d/1CqUFtZigjoEwfK1dNRr6n3H2UFSNO9Fe/view?usp=sharing

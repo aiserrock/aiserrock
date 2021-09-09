@@ -43,6 +43,3 @@ Advanced level:
   
 </p>
 </details>  
-
-#### My resume: 
-https://drive.google.com/file/d/1CqUFtZigjoEwfK1dNRr6n3H2UFSNO9Fe/view?usp=sharing

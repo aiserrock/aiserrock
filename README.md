@@ -4,6 +4,8 @@
 
 Flutter fan. StackOverflow helper. Voracious reader. Avid traveler.
 
+I react painlessly to constructive criticism.
+
 #### Knowledge in Flutter/Dart
 
 <details>

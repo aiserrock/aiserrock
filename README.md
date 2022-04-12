@@ -54,10 +54,10 @@ Advanced level:
 <details>
 <summary>Readed</summary>
 <p>  
-  * Grokking Algorithms - https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230
-  * Grokking Simplicity - https://www.amazon.com/Grokking-Simplicity-software-functional-thinking/dp/1617296201 
-  * Design pattern via C# = https://itvdn.com/ru/maildeliveries/details/635b19f5-95b4-44ef-827d-831c9965b83e
-  * Clean code - https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
+  * Grokking Algorithms - https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230. 
+  * Grokking Simplicity - https://www.amazon.com/Grokking-Simplicity-software-functional-thinking/dp/161729620.  
+  * Design pattern via C# = https://itvdn.com/ru/maildeliveries/details/635b19f5-95b4-44ef-827d-831c9965b83e.  
+  * Clean code - https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882. 
 </p>
 </details> 
 <details>
@@ -69,6 +69,6 @@ Advanced level:
 <details>
 <summary>Will read</summary>
 <p>  
-  * Dart Apprentice (First Edition) - https://www.amazon.com/Dart-Apprentice-First-Beginning-Programming/dp/1950325326/ref=sr_1_1?crid=3G2AYFLIHC0N5&keywords=Dart+Apprentice+By+Jonathan+Sande+%26+Matt+Galloway&qid=1649752050&s=books&sprefix=dart+apprentice+by+jonathan+sande+%26+matt+galloway%2Cstripbooks-intl-ship%2C211&sr=1-1
+  * Dart Apprentice (First Edition) - https://www.amazon.com/Dart-Apprentice-First-Beginning-Programming/dp/1950325326/ref=sr_1_1?crid=3G2AYFLIHC0N5&keywords=Dart+Apprentice+By+Jonathan+Sande+%26+Matt+Galloway&qid=1649752050&s=books&sprefix=dart+apprentice+by+jonathan+sande+%26+matt+galloway%2Cstripbooks-intl-ship%2C211&sr=1-1. 
 </p>
 </details> 

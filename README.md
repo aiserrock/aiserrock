@@ -4,6 +4,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram&logoColor=2AABEE)](https://t.me/vladzaikin)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/vladzaikin)
+[![X](https://img.shields.io/badge/-X-05122A?style=flat&logo=x&logoColor=FFFFFF)](https://x.com/aicserrock)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp&logoColor=25D366)](https://wa.me/447746677321)
 [![Gmail](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail&logoColor=EA4335)](mailto:aicserrock@gmail.com)
 

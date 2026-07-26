@@ -19,8 +19,6 @@
 | <img src=".img/acits_icon.png" width="22" align="left"> &nbsp;**ACITS** — animal shelter management | [![](https://img.shields.io/badge/source-05122A?logo=github&logoColor=A0AEC0&style=flat-square)](https://github.com/aiserrock/acits-flutter) |
 | **Sortman** — warehouse handheld terminals | internal |
 
-<sub>Two top-50 Russian banks in one codebase · 8 build targets · white-label monorepo · team of 40+</sub>
-
 </details>
 
 <details>

@@ -48,4 +48,4 @@ Spec-driven development · AI code review · AI-assisted testing and docs
 
 ## 🌱 Open Source
 
-### [Animal](https://github.com/aiserrock/acits-flutter)
+### [Animal Control In The Shelter](https://github.com/aiserrock/acits-flutter)

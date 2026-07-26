@@ -1,6 +1,7 @@
 <a href="https://t.me/vladzaikin"><img height="30" src="https://img.shields.io/badge/Telegram-05122A?style=for-the-badge&logo=telegram&logoColor=2AABEE" alt="Telegram"></a>
 <a href="https://linkedin.com/in/vladzaikin"><img height="30" src="https://img.shields.io/badge/LinkedIn-05122A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzBBNjZDMiI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn"></a>
 <a href="https://x.com/aicserrock"><img height="30" src="https://img.shields.io/badge/X-05122A?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"></a>
+<a href="https://wa.me/447746677321"><img height="30" src="https://img.shields.io/badge/WhatsApp-05122A?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"></a>
 <a href="mailto:aicserrock@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-05122A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
 
 ---

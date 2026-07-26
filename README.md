@@ -1,18 +1,8 @@
-# Vlad Zaikin
-
-### Senior Flutter Engineer
-
 [![Telegram](https://img.shields.io/badge/Telegram-05122A?style=for-the-badge&logo=telegram&logoColor=2AABEE)](https://t.me/vladzaikin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/vladzaikin)
 [![X](https://img.shields.io/badge/X-05122A?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/aicserrock)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-05122A?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/447746677321)
 [![Email](https://img.shields.io/badge/Email-05122A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:aicserrock@gmail.com)
-
-### 📱 5 years of Flutter in production — banking and e-commerce
-### 🏦 Two top-50 Russian banks in one codebase, 8 build targets, team of 40+
-### 📦 5 apps shipped to App Store, Google Play and RuStore
-### 🧩 Focus: architecture, white-label monorepos, release automation
-### 🤖 AI-driven development — Claude Code, MCP, multi-agent orchestration
 
 ---
 
@@ -58,10 +48,4 @@ Spec-driven development · AI code review · AI-assisted testing and docs
 
 ## 🌱 Open Source
 
-### [acits-flutter](https://github.com/aiserrock/acits-flutter)
-
-[![stars](https://img.shields.io/github/stars/aiserrock/acits-flutter?style=for-the-badge&labelColor=05122A&color=1B2735&logo=github&logoColor=A0AEC0)](https://github.com/aiserrock/acits-flutter/stargazers)
-[![last commit](https://img.shields.io/github/last-commit/aiserrock/acits-flutter?style=for-the-badge&labelColor=05122A&color=1B2735&logo=git&logoColor=F05032)](https://github.com/aiserrock/acits-flutter/commits)
-
-Mobile client for **Acits** — free software for tracking animals inside an animal shelter.
-Dart, BLoC, go_router, swagger codegen.
+### [Animal](https://github.com/aiserrock/acits-flutter)

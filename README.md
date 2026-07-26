@@ -6,7 +6,7 @@
 ---
 
 <details>
-<summary><b>📦 Shipped</b> — 5 apps · 4.3&#9733; on the App Store</summary>
+<summary><b>📦 Shipped</b> — 5 apps · 4.3&#9733; on the App Store/Play Store</summary>
 
 <br>
 

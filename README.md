@@ -19,6 +19,22 @@
 | <img src=".img/acits_icon.png" width="22" align="left"> &nbsp;**ACITS** — animal shelter management | [![](https://img.shields.io/badge/source-05122A?logo=github&logoColor=A0AEC0&style=flat-square)](https://github.com/aiserrock/acits-flutter) |
 | **Sortman** — warehouse handheld terminals | internal |
 
+<sub>Two top-50 Russian banks in one codebase · 8 build targets · white-label monorepo · team of 40+</sub>
+
+</details>
+
+<details>
+<summary><b>📊 Activity</b> — 3.3k contributions · 484 commits · 70 pull requests</summary>
+
+<br>
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=aiserrock&count_private=true&include_all_commits=true&hide=stars,issues&hide_rank=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=A0AEC0&icon_color=42A5F5" height="130" alt="commits, pull requests, contributions">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aiserrock&theme=github_dark" height="130" alt="languages by commit">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aiserrock&theme=github-compact&hide_border=true&bg_color=00000000&color=A0AEC0&line=42A5F5&point=FFFFFF&area=true&days=180" width="780" alt="contribution activity">
+
+<sub>Most of the work lives in private and corporate repositories — the graph reflects volume, not the code.</sub>
+
 </details>
 
 <details>

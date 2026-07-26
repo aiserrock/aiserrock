@@ -39,11 +39,11 @@
 
 <br>
 
-**Flutter** — BLoC · Cubit · Elementary · Riverpod · GetIt/Injectable · go_router · Freezed · RxDart · Isolates · FFI · Method Channels · CustomPainter · Shaders · Impeller · Melos · Mason · Web/PWA · Desktop
-**Data** — Dio · GraphQL · gRPC · WebSocket/STOMP · Drift · Hive · ObjectBox · SQLite · OpenAPI codegen · Server-Driven UI
-**Platform** — Kotlin · Swift · Clean Architecture · SOLID · DDD · OAuth2/OIDC · SSL Pinning · Biometrics · Secure Storage
-**Testing** — Golden · Widget · Integration · Patrol · Mockito · DevTools profiling · Sentry · Crashlytics
-**Release** — GitLab CI · TeamCity · GitHub Actions · Fastlane · Docker · App Store · Google Play · RuStore · AppGallery
+**Flutter** — BLoC · Cubit · Elementary · Riverpod · GetIt/Injectable · go_router · Freezed · RxDart · Isolates · FFI · Method Channels · CustomPainter · Shaders · Impeller · Melos · Mason · Web/PWA · Desktop<br>
+**Data** — Dio · GraphQL · gRPC · WebSocket/STOMP · Drift · Hive · ObjectBox · SQLite · OpenAPI codegen · Server-Driven UI<br>
+**Platform** — Kotlin · Swift · Clean Architecture · SOLID · DDD · OAuth2/OIDC · SSL Pinning · Biometrics · Secure Storage<br>
+**Testing** — Golden · Widget · Integration · Patrol · Mockito · DevTools profiling · Sentry · Crashlytics<br>
+**Release** — GitLab CI · TeamCity · GitHub Actions · Fastlane · Docker · App Store · Google Play · RuStore · AppGallery<br>
 **AI** — Claude Code · Codex CLI · Cursor · MCP servers · multi-agent orchestration · RAG · LLM evals · spec-driven development
 
 </details>

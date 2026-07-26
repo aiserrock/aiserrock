@@ -18,9 +18,6 @@
 
 Mobile client for **Acits** — free software for tracking animals inside an animal shelter.
 
-<a href="https://github.com/aiserrock/acits-flutter"><img height="22" src="https://img.shields.io/github/stars/aiserrock/acits-flutter?style=flat-square&labelColor=05122A&color=1B2735&logo=github&logoColor=A0AEC0" alt="stars"></a>
-<a href="https://github.com/aiserrock/acits-flutter/commits"><img height="22" src="https://img.shields.io/github/last-commit/aiserrock/acits-flutter?style=flat-square&labelColor=05122A&color=1B2735&logo=git&logoColor=F05032" alt="last commit"></a>
-
 ---
 
 <details>

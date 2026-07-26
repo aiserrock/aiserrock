@@ -24,10 +24,10 @@
 
 | Product | Store |
 |---|---|
-| **Magnit Market Seller** — marketplace seller cabinet | [![](https://img.shields.io/itunes/v/1595258241?label=App%20Store&color=05122A&labelColor=1B2735&logo=appstore&logoColor=0D96F6&style=flat-square)](https://apps.apple.com/us/app/id1595258241) [![](https://img.shields.io/badge/Google_Play-05122A?logo=googleplay&logoColor=00D2FF&style=flat-square)](https://play.google.com/store/apps/details?id=com.ke_flutter.ke_business_app) |
-| **DriverApp** — courier tracking | [![](https://img.shields.io/itunes/v/6738984019?label=App%20Store&color=05122A&labelColor=1B2735&logo=appstore&logoColor=0D96F6&style=flat-square)](https://apps.apple.com/us/app/id6738984019) [![](https://img.shields.io/badge/Google_Play-05122A?logo=googleplay&logoColor=00D2FF&style=flat-square)](https://play.google.com/store/apps/details?id=com.magnit.tms.driver) |
-| **SMP Bank** — mobile banking, two brands | [![](https://img.shields.io/badge/RuStore-05122A?logo=android&logoColor=3DDC84&style=flat-square)](https://www.rustore.ru/catalog/app/com.smp.android) |
-| **ACITS** — animal shelter management | [![](https://img.shields.io/badge/source-05122A?logo=github&logoColor=A0AEC0&style=flat-square)](https://github.com/aiserrock/acits-flutter) |
+| <img src=".img/app_seller.png" width="22" align="left"> &nbsp;**Magnit Market Seller** — marketplace seller cabinet | [![](https://img.shields.io/itunes/v/1595258241?label=App%20Store&color=05122A&labelColor=1B2735&logo=appstore&logoColor=0D96F6&style=flat-square)](https://apps.apple.com/us/app/id1595258241) [![](https://img.shields.io/badge/Google_Play-05122A?logo=googleplay&logoColor=00D2FF&style=flat-square)](https://play.google.com/store/apps/details?id=com.ke_flutter.ke_business_app) |
+| <img src=".img/app_driver.png" width="22" align="left"> &nbsp;**DriverApp** — courier tracking | [![](https://img.shields.io/itunes/v/6738984019?label=App%20Store&color=05122A&labelColor=1B2735&logo=appstore&logoColor=0D96F6&style=flat-square)](https://apps.apple.com/us/app/id6738984019) [![](https://img.shields.io/badge/Google_Play-05122A?logo=googleplay&logoColor=00D2FF&style=flat-square)](https://play.google.com/store/apps/details?id=com.magnit.tms.driver) |
+| <img src=".img/app_smp.png" width="22" align="left"> &nbsp;**SMP Bank** — mobile banking, two brands | [![](https://img.shields.io/badge/RuStore-05122A?logo=android&logoColor=3DDC84&style=flat-square)](https://www.rustore.ru/catalog/app/com.smp.android) |
+| <img src=".img/acits_icon.png" width="22" align="left"> &nbsp;**ACITS** — animal shelter management | [![](https://img.shields.io/badge/source-05122A?logo=github&logoColor=A0AEC0&style=flat-square)](https://github.com/aiserrock/acits-flutter) |
 | **Sortman** — warehouse handheld terminals | internal |
 
 <sub>Two top-50 Russian banks in one codebase · 8 build targets · white-label monorepo · team of 40+</sub>

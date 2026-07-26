@@ -1,33 +1,61 @@
-## Hi there 👋
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/vladzaikin) [![Gmail](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:aicserrock@gmail.com)
+# Vlad Zaikin
 
-Flutter fan. StackOverflow helper. Voracious reader. Avid traveler.
+### Senior Flutter Engineer
 
-#### Books Computer Science
+[![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram&logoColor=2AABEE)](https://t.me/vladzaikin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/vladzaikin)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp&logoColor=25D366)](https://wa.me/447746677321)
+[![Gmail](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail&logoColor=EA4335)](mailto:aicserrock@gmail.com)
+
+- 📱 5 years of Flutter in production — **banking** and **e-commerce**
+- 🏦 Two top-50 Russian banks in one codebase, 8 build targets, team of 40+
+- 📦 4 apps shipped to App Store and Google Play, from scratch to release
+- 🧩 Focus: architecture, white-label monorepos, release automation
+- 🤖 AI-driven development — Claude Code, MCP
+- 💬 Ask me about BLoC, server-driven UI, melos, CI for mobile
+
+---
+
+### 📦 Shipped
+
+| Product | What it does | Store |
+|---|---|---|
+| **Magnit Market Seller** | Marketplace seller cabinet — finances, product cards, real-time chats over STOMP | [App&nbsp;Store](https://apps.apple.com/us/app/id1595258241) |
+| **DriverApp** | Courier app with background GPS tracking, OAuth2 PKCE, multi-org | [App&nbsp;Store](https://apps.apple.com/us/app/id6738984019) |
+| **SMP Bank** | Mobile banking for two brands — design system, SBP, ESIA, PWA | [RuStore](https://www.rustore.ru/catalog/app/com.smp.android) |
+| **Sortman** | Warehouse handheld terminals — Bluetooth HID scanners, 17 server-driven modes | internal |
+
+---
+
+### ⚙️ Stack
+
+[![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=0175C2)](https://dart.dev)
+[![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=42A5F5)](https://flutter.dev)
+[![BLoC](https://img.shields.io/badge/-BLoC-05122A?style=flat&logo=dart&logoColor=00B4AB)](https://bloclibrary.dev)
+[![Melos](https://img.shields.io/badge/-Melos-05122A?style=flat&logo=dart&logoColor=FFB300)](https://melos.invertase.dev)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin&logoColor=7F52FF)](https://kotlinlang.org)
+[![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&logoColor=F05138)](https://swift.org)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql&logoColor=E10098)](https://graphql.org)
+[![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)](https://firebase.google.com)
+[![Sentry](https://img.shields.io/badge/-Sentry-05122A?style=flat&logo=sentry&logoColor=8B5CF6)](https://sentry.io)
+[![GitLab CI](https://img.shields.io/badge/-GitLab_CI-05122A?style=flat&logo=gitlab&logoColor=FC6D26)](https://docs.gitlab.com/ee/ci/)
+[![Claude](https://img.shields.io/badge/-Claude_Code-05122A?style=flat&logo=anthropic&logoColor=D97757)](https://claude.com/claude-code)
+
+---
+
+### 🌱 Open Source
+
+[![acits-flutter](https://github-readme-stats.vercel.app/api/pin/?username=aiserrock&repo=acits-flutter&bg_color=05122A&title_color=42A5F5&text_color=A0AEC0&border_color=1B2735)](https://github.com/aiserrock/acits-flutter)
+
+Mobile client for **Acits** — free software for tracking animals inside an animal shelter.
+
+---
+
 <details>
-<summary>Readed</summary>
-<p>  
-  
-  * Grokking Algorithms - https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230. 
-  * Grokking Simplicity - https://www.amazon.com/Grokking-Simplicity-software-functional-thinking/dp/161729620.  
-  * Design pattern via C# = https://itvdn.com/ru/maildeliveries/details/635b19f5-95b4-44ef-827d-831c9965b83e.  
-  * Clean code - https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882. 
-  
-</p>
-</details> 
-<details>
-<summary>Reading now</summary>
-<p>  
-  
- * Flutter Apprentice Second Edition Dart 2.14.2, Flutter 2.5.1
-  
-</p>
-</details> 
-<details>
-<summary>Will read</summary>
-<p>  
-  
-  * Dart Apprentice (First Edition) - https://www.amazon.com/Dart-Apprentice-First-Beginning-Programming/dp/1950325326/ref=sr_1_1?crid=3G2AYFLIHC0N5&keywords=Dart+Apprentice+By+Jonathan+Sande+%26+Matt+Galloway&qid=1649752050&s=books&sprefix=dart+apprentice+by+jonathan+sande+%26+matt+galloway%2Cstripbooks-intl-ship%2C211&sr=1-1. 
-  
-</p>
-</details> 
+<summary><b>📊 GitHub stats</b></summary>
+
+<br>
+
+[![stats](https://github-readme-stats.vercel.app/api?username=aiserrock&show_icons=true&count_private=true&hide_border=true&bg_color=05122A&title_color=42A5F5&text_color=A0AEC0&icon_color=42A5F5)](https://github.com/aiserrock)
+
+</details>

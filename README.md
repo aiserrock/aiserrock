@@ -97,4 +97,15 @@
 
 ## 🌱 Open Source
 
-### [Animal Control In The Shelter](https://github.com/aiserrock/acits-flutter)
+<a href="https://github.com/aiserrock/acits-flutter">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aiserrock/acits-flutter/main/assets/image/logo_bar_dark.svg">
+    <img src="https://raw.githubusercontent.com/aiserrock/acits-flutter/main/assets/image/logo_bar.svg" height="44" alt="Acits">
+  </picture>
+</a>
+
+[![stars](https://img.shields.io/github/stars/aiserrock/acits-flutter?style=for-the-badge&labelColor=05122A&color=1B2735&logo=github&logoColor=A0AEC0)](https://github.com/aiserrock/acits-flutter/stargazers)
+[![last commit](https://img.shields.io/github/last-commit/aiserrock/acits-flutter?style=for-the-badge&labelColor=05122A&color=1B2735&logo=git&logoColor=F05032)](https://github.com/aiserrock/acits-flutter/commits)
+
+Mobile client for **Acits** — free software for tracking animals inside an animal shelter.
+Dart, BLoC, go_router, swagger codegen. &nbsp;[Source](https://github.com/aiserrock/acits-flutter)

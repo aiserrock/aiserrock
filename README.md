@@ -7,8 +7,6 @@
 <a href="https://x.com/aicserrock"><img height="30" src="https://img.shields.io/badge/X-05122A?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"></a>
 <a href="mailto:aicserrock@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-05122A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,firebase,graphql,gitlab,docker&theme=dark" height="38" alt="stack">
-
 ---
 
 ## 📦 Shipped
@@ -29,12 +27,12 @@
 
 <a href="https://github.com/aiserrock/acits-flutter">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aiserrock/acits-flutter/main/assets/image/logo_bar_dark.svg">
-    <img src="https://raw.githubusercontent.com/aiserrock/acits-flutter/main/assets/image/logo_bar.svg" height="40" alt="Acits">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aiserrock/aiserrock/main/.img/acits_logo_bar_dark.svg">
+    <img src="https://raw.githubusercontent.com/aiserrock/aiserrock/main/.img/acits_logo_bar.svg" height="40" alt="ACITS">
   </picture>
 </a>
 
-Mobile client for **Acits** — free software for tracking animals inside an animal shelter.
+Mobile client for **ACITS** — free software for tracking animals inside an animal shelter.
 
 <a href="https://github.com/aiserrock/acits-flutter"><img height="22" src="https://img.shields.io/github/stars/aiserrock/acits-flutter?style=flat-square&labelColor=05122A&color=1B2735&logo=github&logoColor=A0AEC0" alt="stars"></a>
 <a href="https://github.com/aiserrock/acits-flutter/commits"><img height="22" src="https://img.shields.io/github/last-commit/aiserrock/acits-flutter?style=flat-square&labelColor=05122A&color=1B2735&logo=git&logoColor=F05032" alt="last commit"></a>

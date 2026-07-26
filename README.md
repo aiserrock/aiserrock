@@ -25,12 +25,7 @@
 
 ## 🌱 Open Source
 
-<a href="https://github.com/aiserrock/acits-flutter">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aiserrock/aiserrock/main/.img/acits_logo_bar_dark.svg">
-    <img src="https://raw.githubusercontent.com/aiserrock/aiserrock/main/.img/acits_logo_bar.svg" height="40" alt="ACITS">
-  </picture>
-</a>
+[<img src=".img/acits.svg" height="38" alt="ACITS">](https://github.com/aiserrock/acits-flutter)
 
 Mobile client for **ACITS** — free software for tracking animals inside an animal shelter.
 

@@ -20,8 +20,8 @@
 
 | Product | What it does | Store |
 |---|---|---|
-| **Magnit Market Seller** | Marketplace seller cabinet — finances, product cards, real-time chats over STOMP | [App&nbsp;Store](https://apps.apple.com/us/app/id1595258241) |
-| **DriverApp** | Courier app with background GPS tracking, OAuth2 PKCE, multi-org | [App&nbsp;Store](https://apps.apple.com/us/app/id6738984019) |
+| **Magnit Market Seller** | Marketplace seller cabinet — finances, product cards, real-time chats over STOMP | [App&nbsp;Store](https://apps.apple.com/us/app/id1595258241) · [Google&nbsp;Play](https://play.google.com/store/apps/details?id=com.ke_flutter.ke_business_app) |
+| **DriverApp** | Courier app with background GPS tracking, OAuth2 PKCE, multi-org | [App&nbsp;Store](https://apps.apple.com/us/app/id6738984019) · [Google&nbsp;Play](https://play.google.com/store/apps/details?id=com.magnit.tms.driver) |
 | **SMP Bank** | Mobile banking for two brands — design system, SBP, ESIA, PWA | [RuStore](https://www.rustore.ru/catalog/app/com.smp.android) |
 | **Sortman** | Warehouse handheld terminals — Bluetooth HID scanners, 17 server-driven modes | internal |
 
@@ -45,17 +45,9 @@
 
 ### 🌱 Open Source
 
-[![acits-flutter](https://github-readme-stats.vercel.app/api/pin/?username=aiserrock&repo=acits-flutter&bg_color=05122A&title_color=42A5F5&text_color=A0AEC0&border_color=1B2735)](https://github.com/aiserrock/acits-flutter)
+**[acits-flutter](https://github.com/aiserrock/acits-flutter)** &nbsp;
+[![stars](https://img.shields.io/github/stars/aiserrock/acits-flutter?style=flat&labelColor=05122A&color=1B2735&logo=github&logoColor=A0AEC0)](https://github.com/aiserrock/acits-flutter/stargazers)
+[![last commit](https://img.shields.io/github/last-commit/aiserrock/acits-flutter?style=flat&labelColor=05122A&color=1B2735&logo=git&logoColor=F05032)](https://github.com/aiserrock/acits-flutter/commits)
 
 Mobile client for **Acits** — free software for tracking animals inside an animal shelter.
-
----
-
-<details>
-<summary><b>📊 GitHub stats</b></summary>
-
-<br>
-
-[![stats](https://github-readme-stats.vercel.app/api?username=aiserrock&show_icons=true&count_private=true&hide_border=true&bg_color=05122A&title_color=42A5F5&text_color=A0AEC0&icon_color=42A5F5)](https://github.com/aiserrock)
-
-</details>
+Dart, BLoC, go_router, swagger codegen. &nbsp;[RuStore](https://www.rustore.ru/catalog/app/io.github.andx2.acits)

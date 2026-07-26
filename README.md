@@ -7,20 +7,6 @@
 
 ---
 
-## 📦 Shipped
-
-| Product | What it does | Store |
-|---|---|---|
-| **Magnit Market Seller** | Marketplace seller cabinet — finances, product cards, real-time chats | [App&nbsp;Store](https://apps.apple.com/us/app/id1595258241) · [Google&nbsp;Play](https://play.google.com/store/apps/details?id=com.ke_flutter.ke_business_app) |
-| **DriverApp** | Courier app — background GPS tracking, OAuth2 PKCE, multi-org | [App&nbsp;Store](https://apps.apple.com/us/app/id6738984019) · [Google&nbsp;Play](https://play.google.com/store/apps/details?id=com.magnit.tms.driver) |
-| **SMP Bank** | Mobile banking for two brands — design system, SBP, ESIA, PWA | [RuStore](https://www.rustore.ru/catalog/app/com.smp.android) |
-| **ACITS** | Animal shelter management — open source | coming soon |
-| **Sortman** | Warehouse handheld terminals — Bluetooth HID scanners | internal |
-
-<sub>Two top-50 Russian banks in one codebase · 8 build targets · white-label monorepo · team of 40+</sub>
-
----
-
 ## 🌱 Open Source
 
 <a href="https://github.com/aiserrock/acits-flutter">

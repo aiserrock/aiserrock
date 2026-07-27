@@ -24,14 +24,23 @@
 </details>
 
 <details>
-<summary><b>🤖 AI engineering</b> — MCP servers · agent harnesses · context engineering</summary>
+<summary><img src="https://cdn.simpleicons.org/anthropic/D97757" height="14"> &nbsp;<b>AI engineering</b> — MCP servers · agent harnesses · context engineering</summary>
 
 <br>
 
-**Built, not just used** — a production MCP server (20 tool modules, typed contracts, official TS SDK). Custom Claude Code hooks, skills, git-backed agent memory.<br>
-**Agent harnesses** — multi-agent orchestration, parallel fan-out, adversarial verification, worktree isolation.<br>
-**Context engineering** — progressive disclosure over flat prompts; token budgets as an engineering constraint.<br>
-**Spec-driven delivery** — AI code review, test generation and OpenAPI contracts inside a real CI pipeline.
+<img src="https://cdn.simpleicons.org/modelcontextprotocol/A0AEC0" height="15" align="left">&nbsp; **Built, not just used** — a production MCP server (20 tool modules, typed contracts, official TS SDK). Custom Claude Code hooks, skills, git-backed agent memory.<br>
+<img src="https://cdn.simpleicons.org/langgraph/42A5F5" height="15" align="left">&nbsp; **Agent harnesses** — multi-agent orchestration, parallel fan-out, adversarial verification, worktree isolation.<br>
+<img src="https://cdn.simpleicons.org/obsidian/9C27B0" height="15" align="left">&nbsp; **Context engineering** — progressive disclosure over flat prompts; token budgets as an engineering constraint.<br>
+<img src="https://cdn.simpleicons.org/openapiinitiative/76FF03" height="15" align="left">&nbsp; **Spec-driven delivery** — AI code review, test generation and OpenAPI contracts inside a real CI pipeline.
+
+<br>
+
+<img src="https://cdn.simpleicons.org/claude/D97757" height="18">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/modelcontextprotocol/FFFFFF" height="18">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/cursor/FFFFFF" height="18">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/githubcopilot/FFFFFF" height="18">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="18">&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/ollama/FFFFFF" height="18">
 
 <sub>Claude Code · Codex CLI · Cursor · Copilot · MCP · Anthropic / OpenAI / Gemini APIs · RAG · LLM evals</sub>
 

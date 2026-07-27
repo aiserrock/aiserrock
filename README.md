@@ -19,12 +19,10 @@
 | <img src=".img/acits_icon.png" width="22" align="left"> &nbsp;**ACITS** — animal shelter management | [![](https://img.shields.io/badge/source-05122A?logo=github&logoColor=A0AEC0&style=flat-square)](https://github.com/aiserrock/acits-flutter) |
 | **Sortman** — warehouse handheld terminals | internal |
 
-<sub>Two top-50 Russian banks in one codebase · 8 build targets · white-label monorepo · team of 40+</sub>
-
 </details>
 
 <details>
-<summary><img src="https://cdn.simpleicons.org/anthropic/D97757" height="14"> &nbsp;<b>AI engineering</b> — MCP servers · agent harnesses · context engineering</summary>
+<summary><img src="https://camo.githubusercontent.com/802438ea1b9bc73ddf9456d2c584e993116adb12645df54174d49f0e04396170/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f636c617564652f443937373537" height="14"> &nbsp;<b>AI engineering</b> — MCP servers · agent harnesses · context engineering</summary>
 
 <br>
 

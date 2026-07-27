@@ -66,5 +66,6 @@
 | <img src="https://skillicons.dev/icons?i=kotlin,swift&theme=dark" height="26"> | **Platform** | Clean Architecture · SOLID · DDD · OAuth2/OIDC · SSL Pinning · Biometrics · Secure Storage |
 | <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="26"> | **Testing** | Golden · Widget · Integration · Patrol · Mockito · DevTools profiling · Sentry · Crashlytics |
 | <img src="https://skillicons.dev/icons?i=gitlab,docker&theme=dark" height="26"> | **Release** | GitLab CI · TeamCity · GitHub Actions · Fastlane · Docker · App Store · Google Play · RuStore · AppGallery |
+| <img src="https://skillicons.dev/icons?i=ai&theme=dark" height="26"> | **AI** | ![Claude Code](https://img.shields.io/badge/Claude_Code-05122A?style=flat&logo=claude&logoColor=D97757) ![Codex](https://img.shields.io/badge/Codex_CLI-05122A?style=flat&logo=openai&logoColor=FFFFFF) ![Cursor](https://img.shields.io/badge/Cursor-05122A?style=flat&logo=cursor&logoColor=FFFFFF) ![Copilot](https://img.shields.io/badge/Copilot-05122A?style=flat&logo=githubcopilot&logoColor=FFFFFF) ![MCP](https://img.shields.io/badge/MCP-05122A?style=flat&logo=modelcontextprotocol&logoColor=FFFFFF) ![Gemini](https://img.shields.io/badge/Gemini-05122A?style=flat&logo=googlegemini&logoColor=8E75B2) ![Ollama](https://img.shields.io/badge/Ollama-05122A?style=flat&logo=ollama&logoColor=FFFFFF) |
 
 </details>

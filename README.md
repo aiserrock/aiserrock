@@ -24,6 +24,23 @@
 </details>
 
 <details>
+<summary><b>🤖 AI engineering</b> — MCP servers · agent harnesses · spec-driven delivery</summary>
+
+<br>
+
+**Built, not just used.** A production MCP server for a proxy-management panel — 20 tool modules, typed contracts, resources and prompts over the official TypeScript SDK. Custom Claude Code hooks (PreToolUse token filtering, PreCompact, Stop), skills, and a git-backed persistent memory layer shared across machines.
+
+**Agent harnesses** — multi-agent orchestration with parallel fan-out and adversarial verification: independent reviewers refute each finding before it survives. Worktree isolation so agents mutate code without collisions. Deterministic control flow in the harness, model judgement in the leaves.
+
+**Context engineering** — progressive disclosure over flat prompts: routers and ranked search instead of loading whole knowledge bases. Token budgets treated as an engineering constraint, measured and enforced.
+
+**Spec-driven delivery** — the spec is the artifact, code is the output. AI-assisted code review, test generation and OpenAPI contract work inside a real mobile pipeline: 25-package monorepo, 8 build targets, GitLab CI.
+
+<sub>Claude Code · Codex CLI · Cursor · Copilot · MCP (Model Context Protocol) · Anthropic / OpenAI / Gemini APIs · RAG · LLM evals</sub>
+
+</details>
+
+<details>
 <summary><b>📊 Activity</b> — 3.3k contributions · 484 commits · 70 pull requests</summary>
 
 <br>

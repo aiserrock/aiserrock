@@ -24,19 +24,16 @@
 </details>
 
 <details>
-<summary><b>🤖 AI engineering</b> — MCP servers · agent harnesses · spec-driven delivery</summary>
+<summary><b>🤖 AI engineering</b> — MCP servers · agent harnesses · context engineering</summary>
 
 <br>
 
-**Built, not just used.** A production MCP server for a proxy-management panel — 20 tool modules, typed contracts, resources and prompts over the official TypeScript SDK. Custom Claude Code hooks (PreToolUse token filtering, PreCompact, Stop), skills, and a git-backed persistent memory layer shared across machines.
+**Built, not just used** — a production MCP server (20 tool modules, typed contracts, official TS SDK). Custom Claude Code hooks, skills, git-backed agent memory.<br>
+**Agent harnesses** — multi-agent orchestration, parallel fan-out, adversarial verification, worktree isolation.<br>
+**Context engineering** — progressive disclosure over flat prompts; token budgets as an engineering constraint.<br>
+**Spec-driven delivery** — AI code review, test generation and OpenAPI contracts inside a real CI pipeline.
 
-**Agent harnesses** — multi-agent orchestration with parallel fan-out and adversarial verification: independent reviewers refute each finding before it survives. Worktree isolation so agents mutate code without collisions. Deterministic control flow in the harness, model judgement in the leaves.
-
-**Context engineering** — progressive disclosure over flat prompts: routers and ranked search instead of loading whole knowledge bases. Token budgets treated as an engineering constraint, measured and enforced.
-
-**Spec-driven delivery** — the spec is the artifact, code is the output. AI-assisted code review, test generation and OpenAPI contract work inside a real mobile pipeline: 25-package monorepo, 8 build targets, GitLab CI.
-
-<sub>Claude Code · Codex CLI · Cursor · Copilot · MCP (Model Context Protocol) · Anthropic / OpenAI / Gemini APIs · RAG · LLM evals</sub>
+<sub>Claude Code · Codex CLI · Cursor · Copilot · MCP · Anthropic / OpenAI / Gemini APIs · RAG · LLM evals</sub>
 
 </details>
 
@@ -47,6 +44,9 @@
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=aiserrock&count_private=true&include_all_commits=true&hide=stars,issues&hide_rank=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=A0AEC0&icon_color=42A5F5" height="130" alt="commits, pull requests, contributions">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aiserrock&theme=github_dark" height="130" alt="languages by commit">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aiserrock&theme=github_dark&utcOffset=5" height="130" alt="commits by hour">
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aiserrock&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=A0AEC0&langs_count=6" height="130" alt="top languages">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aiserrock&theme=github-compact&hide_border=true&bg_color=00000000&color=A0AEC0&line=42A5F5&point=FFFFFF&area=true&days=180" width="780" alt="contribution activity">
 
@@ -59,11 +59,12 @@
 
 <br>
 
-**Flutter** — BLoC · Cubit · Elementary · Riverpod · GetIt/Injectable · go_router · Freezed · RxDart · Isolates · FFI · Method Channels · CustomPainter · Shaders · Impeller · Melos · Mason · Web/PWA · Desktop<br>
-**Data** — Dio · GraphQL · gRPC · WebSocket/STOMP · Drift · Hive · ObjectBox · SQLite · OpenAPI codegen · Server-Driven UI<br>
-**Platform** — Kotlin · Swift · Clean Architecture · SOLID · DDD · OAuth2/OIDC · SSL Pinning · Biometrics · Secure Storage<br>
-**Testing** — Golden · Widget · Integration · Patrol · Mockito · DevTools profiling · Sentry · Crashlytics<br>
-**Release** — GitLab CI · TeamCity · GitHub Actions · Fastlane · Docker · App Store · Google Play · RuStore · AppGallery<br>
-**AI** — Claude Code · Codex CLI · Cursor · MCP servers · multi-agent orchestration · RAG · LLM evals · spec-driven development
+| | | |
+|:--|:--|:--|
+| <img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" height="26"> | **Flutter** | BLoC · Cubit · Elementary · Riverpod · GetIt/Injectable · go_router · Freezed · RxDart · Isolates · FFI · Method Channels · CustomPainter · Shaders · Impeller · Melos · Mason · Web/PWA · Desktop |
+| <img src="https://skillicons.dev/icons?i=graphql,sqlite&theme=dark" height="26"> | **Data** | Dio · GraphQL · gRPC · WebSocket/STOMP · Drift · Hive · ObjectBox · SQLite · OpenAPI codegen · Server-Driven UI |
+| <img src="https://skillicons.dev/icons?i=kotlin,swift&theme=dark" height="26"> | **Platform** | Clean Architecture · SOLID · DDD · OAuth2/OIDC · SSL Pinning · Biometrics · Secure Storage |
+| <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="26"> | **Testing** | Golden · Widget · Integration · Patrol · Mockito · DevTools profiling · Sentry · Crashlytics |
+| <img src="https://skillicons.dev/icons?i=gitlab,docker&theme=dark" height="26"> | **Release** | GitLab CI · TeamCity · GitHub Actions · Fastlane · Docker · App Store · Google Play · RuStore · AppGallery |
 
 </details>
